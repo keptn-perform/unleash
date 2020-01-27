@@ -1,2 +1,4 @@
 unleash-db:
   enabled: false
+unleash-db-generated:
+  enabled: false
