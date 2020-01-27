@@ -1,1 +1,2 @@
-{}
+unleash-db:
+  enabled: false
