@@ -1,2 +1,2 @@
-image: docker.io/keptnexamples/unleash:1.0.0
+image: jetzlstorfer/unleash-server:perform2020
 replicaCount: 1
